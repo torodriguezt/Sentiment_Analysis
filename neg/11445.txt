@@ -1,0 +1,1 @@
+explica su control del cni que tiene riesgo porque carece de cortafuegos si hay algun escandalo como en el  

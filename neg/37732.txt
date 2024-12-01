@@ -1,0 +1,1 @@
+recibes un mensaje de error al tratar de iniciar sesion en tu movil revisa que la configuracion de zona horaria sea correcta via ayuda
